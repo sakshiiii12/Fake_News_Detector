@@ -98,7 +98,7 @@ python app.py
 ## Open in Browser
 
 ```bash
-http://127.0.0.1:5000/
+https://fake-news-detector-1-pcd1.onrender.com
 ```
 
 ---
